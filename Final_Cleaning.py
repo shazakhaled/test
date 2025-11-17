@@ -24,4 +24,4 @@ print("Number of Duplicates after cleaning is: ", end= "" )
 print(df.duplicated().sum())
 
 
-df.to_excel("E:\\DEPI\\FinalProject\\hypertensionClean.xlsx", index=False)
+df.to_excel("E:\\DEPI\\FinalProject\\hypertensionClean.xlsx", index=False)               
